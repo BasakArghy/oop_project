@@ -12,10 +12,10 @@ Abstraction
  Encapsulation
  Inheritence
  Polymorphism
- File I/O operation 
+File I/O operation 
 Operator Overloading 
 Constructor
- Managing Console I/0 Operation 
+Managing Console I/0 Operation 
 STL 
 Template
 Rtti
