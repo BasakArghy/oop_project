@@ -7,17 +7,20 @@ This app will help people to plan for new occation. People through this app can 
 
 OOP features used for implementation:
 
-Class
+Class 
 Abstraction
-Encapsulation
-Inheritence
-Polymorphism
-File I/O operation
-Operator Overloading
+ Encapsulation
+ Inheritence
+ Polymorphism
+ File I/O operation 
+Operator Overloading 
 Constructor
-Managing Console I/0 Operation
-STL
-Many more
+ Managing Console I/0 Operation 
+STL 
+Template
+Rtti
+Pure virtual function
+Inline
 
 
 
